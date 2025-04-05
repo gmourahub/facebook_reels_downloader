@@ -48,9 +48,6 @@ The script uses yt-dlp, a powerful media downloader that supports numerous websi
 - Facebook occasionally changes its structure, which might require updates to the script.
 - As of April 2025, there are some known issues with Facebook Reels parsing in older versions of yt-dlp.
 
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Disclaimer
 
