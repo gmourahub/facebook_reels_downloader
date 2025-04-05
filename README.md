@@ -17,12 +17,6 @@ Facebook Reels Downloader is a simple Python script that allows you to download 
 
 ## Installation
 
-Clone the repository:
-```
-git clone https://github.com/yourusername/facebook_reels_downloader.git
-cd facebook_reels_downloader
-```
-
 Install the required dependencies:
 ```
 pip install yt-dlp
@@ -34,7 +28,6 @@ Run the script using Python:
 ```
 python reels_downloader.py
 ```
-
 
 When prompted, enter the URL of the Facebook Reel you want to download. The script will verify if the URL is valid and then download the video to your Downloads folder.
 
